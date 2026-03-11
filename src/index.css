@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brown: #6B3E26;
+  --color-brown-dark: #3E1F0D;
+  --color-brown-mid: #8C5230;
+  --color-brown-light: #C9956A;
+  --color-cream: #F5EFE6;
+  --color-cream-deep: #EDE3D6;
+  --color-cream-warm: #FAF7F3;
+  --color-gold: #B8963E;
+
+  --font-cormorant: 'Cormorant Garamond', serif;
+  --font-jost: 'Jost', sans-serif;
+}
